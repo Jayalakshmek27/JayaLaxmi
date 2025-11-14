@@ -1,0 +1,6 @@
+Having Experience in Middleware Administrator with over 1.9 years of experience like WebSphere Application Server, JBOSS Administration 6.4, WebLogic, Apache Tomcat on various platforms like Windows and Linux Environment.
+ 	Deployment of JAR, WAR and EAR files to JBOSS instances using web console and CLI interfaces.
+ 	Configured and administered JDBC, JMS, and JNDI in Application Servers.
+ 	Experience in applying patches for Jboss Application Server.
+ 	Experience with Standalone, domain mode Jboss and experiencing in building out HA, clustered environment.
+ 	Experience in Jboss Application server implementation, support, workload management and performance tuning including Web server setup configuration with Jboss App Server.
