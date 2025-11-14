@@ -1,3 +1,6 @@
 this is first class
 added second line
 this is another step
+this class is understood for me
+
+git is a easy through this class
