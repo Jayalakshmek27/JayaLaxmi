@@ -1,0 +1,6 @@
+•	AWS Services: EC2, CloudFormation
+•	CI/CD Tools: Jenkins, GitLab CI
+•	Infrastructure as Code: Terraform, CloudFormation
+•	Containerization: Docker, Kubernetes
+•	Automation: Ansible, Puppet
+•	Monitoring and Logging: CloudWatch, Dynatrace
