@@ -1,0 +1,8 @@
+ 	Skilled in AWS services such as EC2, scalability, and security. Proficient in CI/CD tools like GitLab CI and experienced in containerization with Docker and Kubernetes. 
+ 	Adept at automating processes using monitoring systems with CloudWatch. 
+ 	Skilled in configuring and optimizing cloud resources to ensure high availability, security, and performance. 
+ 	Collect metrics from AWS services through Set up CloudWatch Metrics.
+ 	Setting up alarms to notify of issues.
+ 	Collect and analyze logs from applications by Enable CloudWatch Logs.
+ 	Create dashboards to visualize metrics and logs by using CloudWatch Dashboards.
+ 	Use of Amazon Simple Notification Service (SNS) for notifications to Integrate with SNS.
